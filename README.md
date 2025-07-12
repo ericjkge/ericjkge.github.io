@@ -1,1 +1,1 @@
-Template adapted from [Jon Barron](https://jonbarron.info/)
+Template adapted from [Jon Barron](https://jonbarron.info/).
