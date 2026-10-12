@@ -1,1 +1,0 @@
-Template adapted from [Jon Barron](https://jonbarron.info/).
